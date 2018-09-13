@@ -2,7 +2,7 @@
 
 This Windows utility allows you to pick a window via drag-and-drop and set it to be always at top.
 
-![Sample screenshot](sample.png)
+![Sample screenshot](/sample.png)
 
 Simply drop the crosshair on a window and press the `Float!` button. **Done.**
 
